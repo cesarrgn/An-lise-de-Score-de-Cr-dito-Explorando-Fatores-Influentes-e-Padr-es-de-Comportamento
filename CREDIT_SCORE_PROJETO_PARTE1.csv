@@ -1,0 +1,11 @@
+;Age;Gender;Income;Education;Marital Status;Number of Children;Home Ownership;Credit Score
+0;25.0;Female;50.000,00;Bachelor's Degree;Single;0;Rented;High
+1;30.0;Male;100.000,00;Master's Degree;Married;2;Owned;High
+2;35.0;Female;75.000,00;Doctorate;Married;1;Owned;High
+3;40.0;Male;125.000,00;High School Diploma;Single;0;Owned;High
+4;45.0;Female;100.000,00;Bachelor's Degree;Married;3;Owned;High
+5;50.0;Male;150.000,00;Master's Degree;Married;0;Owned;High
+6;26.0;Female;40.000,00;Associate's Degree;Single;0;Rented;Average
+7;31.0;Male;60.000,00;Bachelor's Degree;Single;0;Rented;Average
+8;NaN;Female;80.000,00;Master's Degree;Married;2;Owned;High
+9;NaN;Male;105.000,00;Doctorate;Single;0;Owned;High
